@@ -14,7 +14,8 @@
 #
 #   * Consider making volume a function of area under the curve,
 #     or number pegged at max
-#	* Consider some filtering, up-front
+#
+#   * Consider some filtering, up-front
 
 
 # Imports
@@ -180,7 +181,7 @@ while True:
         ayStr = line[2:4]
         azStr = line[4:6]
         csStr = line[6:8]
-        #print "%s %s %s %s" % (axStr, ayStr, azSt, csStr)
+        # print "%s %s %s %s" % (axStr, ayStr, azSt, csStr)
 
         axRaw = byteStringToInt(axStr)
         ayRaw = byteStringToInt(ayStr)

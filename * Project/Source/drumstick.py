@@ -1,6 +1,6 @@
 # Drumstick Simulator
 #
-# An accelerometer-based drum stick simulator.
+# An accelerometer-based drumstick simulator.
 # (Work in progress...)
 #
 #
@@ -14,7 +14,7 @@
 #
 #   * Consider making volume a function of area under the curve,
 #     or number pegged at max
-#	* Consider some filtering, up-front
+#   * Consider some filtering, up-front
 
 
 # Imports

@@ -1,6 +1,6 @@
 # Drumstick Simulator
 #
-# An accelerometer-based drum stick simulator.
+# An accelerometer-based drumstick simulator.
 # (Work in progress...)
 #
 #
